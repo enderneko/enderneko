@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🤣
 
 <!--
 **enderneko/enderneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=enderneko&theme=jolly&show_icons=true&hide_border=true)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderneko&layout=compact&theme=jolly&hide_border=true)](#)
